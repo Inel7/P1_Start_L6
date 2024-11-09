@@ -1,4 +1,4 @@
-from versleutel import encrypteer, decrypteer
+from versleutel import encrypteer, decrypteer,verschuif
 
 
 print(encrypteer("hello",1))

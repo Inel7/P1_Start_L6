@@ -9,3 +9,7 @@ def trek_af(a, b):
 # Functie om twee getallen met elkaar te vermenigvuldigen
 def vermenigvuldig(a, b):
     return a * b
+
+# Functie om twee getallen met elkaar te delen
+def deel(a,b):
+    return a / b
